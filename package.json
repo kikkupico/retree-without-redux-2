@@ -1,5 +1,5 @@
 {
-  "name": "retree-without-redux-2",
+  "name": "retree",
   "version": "0.1.0",
   "peerDependencies": {
     "react": "^15.6.1",
@@ -54,7 +54,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vramakin/retree-without-redux-2.git"
+    "url": "git+https://github.com/vramakin/retree.git"
   },
   "keywords": [
     "tree",
@@ -64,9 +64,9 @@
   "author": "Ram",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vramakin/retree-without-redux-2/issues"
+    "url": "https://github.com/vramakin/retree/issues"
   },
-  "homepage": "https://vramakin.github.io/retree-without-redux-2",
+  "homepage": "https://vramakin.github.io/retree",
   "jest": {
     "collectCoverageFrom": [
       "src/**/*.{js,jsx}"
